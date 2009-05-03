@@ -1,0 +1,9 @@
+## Interface: 30000
+## Title: Raccoon|cfe87b23fUI|r
+## Notes: Some UI tweaks
+## Author: Soeters
+
+LibStub\LibStub.lua
+LibShatedMedia-3.0\SharedMedia-3.0.lua
+lsm.lua
+core.lua
